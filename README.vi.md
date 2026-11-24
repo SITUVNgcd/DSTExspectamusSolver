@@ -9,6 +9,7 @@ Trình giải đố cho Don't Starve Together Exspectamus
 </div>
 
 Bài đăng gốc bilibili: https://www.bilibili.com/opus/1183236002302394400
+Tác giả: [Krayers](https://space.bilibili.com/177173532)
 
 # Hướng dẫn sử dụng
 
@@ -17,7 +18,7 @@ Bài đăng gốc bilibili: https://www.bilibili.com/opus/1183236002302394400
 1. Đăng nhập vào tài khoản Klei của bạn tại https://accounts.klei.com.
 2. Truy cập https://exspectamus.dontstarvetogether.com.
 3. Nhấn F12 để mở Bảng điều khiển dành cho Nhà phát triển (Developer Console).
-4. Sao chép và dán [**ĐOẠN MÃ**](#the-code) bên dưới vào ô nhập lệnh trong console, sau đó nhấn Enter (**↵**).
+4. Sao chép và dán [**ĐOẠN MÃ**](#the-code) bên dưới vào ô nhập lệnh trong bảng điều khiển, sau đó nhấn Enter (**↵**).
 
 ## Dành cho người dùng điện thoại
 
@@ -34,7 +35,7 @@ Bài đăng gốc bilibili: https://www.bilibili.com/opus/1183236002302394400
 >
 > **Hãy kiên nhẫn và đừng vội bỏ cuộc!** Có thể bạn sẽ phải thử vài lần trước khi thực hiện thành công.
 
-Trình duyệt trên điện thoại không có sẵn Developer Console, vì vậy bạn cần sử dụng một cách khác để thực hiện.
+Trình duyệt trên điện thoại không có sẵn Bảng điều khiển dành cho Nhà phát triển, vì vậy bạn cần sử dụng một cách khác để thực hiện.
 
 1. Đăng nhập vào tài khoản Klei của bạn tại https://accounts.klei.com.
 2. Truy cập https://exspectamus.dontstarvetogether.com.
