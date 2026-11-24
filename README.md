@@ -27,6 +27,7 @@ Author: [Krayers](https://space.bilibili.com/177173532)
 > ### ⚠️ Attention for Mobile Users**
 >
 > 1. Javascript execution:
+>
 > Make sure to add `javascript:` at the very beginning of the pasted text in the address bar. Otherwise, your browser may interpret the script as a search query instead of executing it on the current page.
 >
 > Sometimes, even after adding `javascript:`, the browser may still search for the script rather than run it. This is unpredictable browser behavior and may vary depending on your browser.
@@ -37,7 +38,7 @@ Author: [Krayers](https://space.bilibili.com/177173532)
 >
 > **Please be patient and don't give up!** You may need several attempts before it works.
 >
-> 2. **_Keep your device screen turn on to prevent interrupt automation progress_**
+> 2. **__Keep your device screen turn on to prevent interrupt automation progress__**
 
 Mobile browsers do not have a built-in developer console, so you'll need to use a workaround.
 

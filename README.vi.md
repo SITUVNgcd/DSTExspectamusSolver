@@ -26,7 +26,8 @@ Tác giả: [Krayers](https://space.bilibili.com/177173532)
 > [!IMPORTANT]
 > ### **⚠️ Lưu ý dành cho người dùng điện thoại**
 >
-> 1. Việc thực thi mã Javascript
+> 1. Việc thực thi mã Javascript:
+>
 > Hãy đảm bảo thêm `javascript:` vào ngay đầu đoạn mã đã sao chép trong thanh địa chỉ. Nếu không, trình duyệt có thể hiểu đoạn mã là nội dung tìm kiếm thay vì thực thi nó trên trang hiện tại.
 >
 > Đôi khi, ngay cả khi đã thêm `javascript:`, trình duyệt vẫn có thể tìm kiếm đoạn mã thay vì thực thi nó. Đây là hành vi không nhất quán của trình duyệt và có thể khác nhau tùy theo trình duyệt bạn đang sử dụng.
@@ -37,7 +38,7 @@ Tác giả: [Krayers](https://space.bilibili.com/177173532)
 >
 > **Hãy kiên nhẫn và đừng vội bỏ cuộc!** Có thể bạn sẽ phải thử vài lần trước khi thực hiện thành công.
 >
-> 2. **_Giữ màn hình của thiết bị luôn bật tránh ngắt quãng quá giải tự động_**
+> 2. **__Giữ màn hình của thiết bị luôn bật tránh ngắt quãng quá giải tự động__**
 
 Trình duyệt trên điện thoại không có sẵn Bảng điều khiển dành cho Nhà phát triển, vì vậy bạn cần sử dụng một cách khác để thực hiện.
 
