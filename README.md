@@ -38,7 +38,7 @@ Author: [Krayers](https://space.bilibili.com/177173532)
 >
 > **Please be patient and don't give up!** You may need several attempts before it works.
 >
-> 2. **__Keep your device screen turn on to prevent interrupt automation progress__**
+> 2. **<ins>Keep your device screen turn on to prevent interrupt automation progress</ins>**
 
 Mobile browsers do not have a built-in developer console, so you'll need to use a workaround.
 

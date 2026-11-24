@@ -38,7 +38,7 @@ Tác giả: [Krayers](https://space.bilibili.com/177173532)
 >
 > **Hãy kiên nhẫn và đừng vội bỏ cuộc!** Có thể bạn sẽ phải thử vài lần trước khi thực hiện thành công.
 >
-> 2. **__Giữ màn hình của thiết bị luôn bật tránh ngắt quãng quá giải tự động__**
+> 2. **<ins>Giữ màn hình của thiết bị luôn bật tránh ngắt quãng quá giải tự động</ins>**
 
 Trình duyệt trên điện thoại không có sẵn Bảng điều khiển dành cho Nhà phát triển, vì vậy bạn cần sử dụng một cách khác để thực hiện.
 
