@@ -21,7 +21,7 @@ Mã giải đố tự động đầy đủ: [script.js](script.js)
 1. Đăng nhập vào tài khoản Klei của bạn tại https://accounts.klei.com.
 2. Truy cập https://exspectamus.dontstarvetogether.com.
 3. Nhấn F12 để mở Bảng điều khiển dành cho Nhà phát triển (Developer Console).
-4. Sao chép và dán [**ĐOẠN MÃ**](#the-code) bên dưới vào ô nhập lệnh trong bảng điều khiển, sau đó nhấn Enter (**↵**).
+4. Sao chép và dán [**ĐOẠN MÃ**](#đoạn-mã) bên dưới vào ô nhập lệnh trong bảng điều khiển, sau đó nhấn Enter (**↵**).
 
 ## Dành cho người dùng điện thoại
 
