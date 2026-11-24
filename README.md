@@ -24,7 +24,7 @@ Author: [Krayers](https://space.bilibili.com/177173532)
 ## For Mobile Users
 
 > [!IMPORTANT]
-> ### ⚠️ Attention for Mobile Users**
+> ### **⚠️ Attention for Mobile Users**
 >
 > 1. Javascript execution:
 >
