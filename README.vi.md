@@ -64,6 +64,7 @@ Nếu bạn cần một "bảng điều khiển (console)" để theo dõi tiế
 
 # ĐOẠN MÃ
 
+(Nút sao chép nằm ở bên phải)
 ```javascript
 (async function(){let r=await fetch("//raw.githubusercontent.com/SITUVNgcd/DSTExspectamusSolver/main/script.js");if(r.ok){(new Function(await r.text()))();auto();}})();
 ```

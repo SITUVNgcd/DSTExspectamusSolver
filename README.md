@@ -64,6 +64,7 @@ If you need a "console" to monitor the puzzle-solving progress, you can use Erud
 
 # THE CODE
 
+(Copy button at the right side)
 ```javascript
 (async function(){let r=await fetch("//raw.githubusercontent.com/SITUVNgcd/DSTExspectamusSolver/main/script.js");if(r.ok){(new Function(await r.text()))();auto();}})();
 ```
