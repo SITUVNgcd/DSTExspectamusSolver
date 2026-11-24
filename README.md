@@ -12,6 +12,8 @@ Original bilibili post: https://www.bilibili.com/opus/1183236002302394400
 
 Author: [Krayers](https://space.bilibili.com/177173532)
 
+Full auto puzzle code: [script.js](script.js)
+
 # How to Use
 
 ## On PC

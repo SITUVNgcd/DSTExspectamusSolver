@@ -12,6 +12,8 @@ Bài đăng gốc bilibili: https://www.bilibili.com/opus/1183236002302394400
 
 Tác giả: [Krayers](https://space.bilibili.com/177173532)
 
+Mã giải đố tự động đầy đủ: [script.js](script.js)
+
 # Hướng dẫn sử dụng
 
 ## Trên PC
