@@ -40,7 +40,7 @@ Full auto puzzle code: [script.js](script.js)
 >
 > **Please be patient and don't give up!** You may need several attempts before it works.
 >
-> 2. **<ins>Keep your device screen turn on to prevent interrupt automation progress</ins>**
+> 2. **<ins>Keep your device screen turn on to prevent automation progress being interrupted.</ins>**
 
 Mobile browsers do not have a built-in developer console, so you'll need to use a workaround.
 
@@ -68,5 +68,18 @@ If you need a "console" to monitor the puzzle-solving progress, you can use Erud
 
 (Copy button at the right side)
 ```javascript
-(async function(){let r=await fetch("//raw.githubusercontent.com/SITUVNgcd/DSTExspectamusSolver/main/script.js");if(r.ok){(new Function(await r.text()))();auto();}})();
+(async function(){let r=await fetch("//raw.githubusercontent.com/SITUVNgcd/DSTExspectamusSolver/main/script.min.js");if(r.ok){(new Function(await r.text()))();auto();}})();
 ```
+
+# Commands can using in console
+```
+  auto()      - Complete all remaining stages automatically
+  next()      - Run the next stage
+  list()      - Show all puzzle steps
+  jumpTo(n)   - Jump to stage n
+  stop()      - Stop immediately
+```
+
+# Javascript disabled
+
+Some browsers have javascript disabled (default or user turn it off). To enable it, click **Menu on right-bottom corner (3 vertical dots) > Settings > Site settings > Javascript > Allowed**.

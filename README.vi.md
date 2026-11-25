@@ -40,7 +40,7 @@ Mã giải đố tự động đầy đủ: [script.js](script.js)
 >
 > **Hãy kiên nhẫn và đừng vội bỏ cuộc!** Có thể bạn sẽ phải thử vài lần trước khi thực hiện thành công.
 >
-> 2. **<ins>Giữ màn hình của thiết bị luôn bật tránh ngắt quãng quá giải tự động</ins>**
+> 2. **<ins>Giữ màn hình của thiết bị luôn bật tránh bị ngắt quãng quá trình giải tự động</ins>**
 
 Trình duyệt trên điện thoại không có sẵn Bảng điều khiển dành cho Nhà phát triển, vì vậy bạn cần sử dụng một cách khác để thực hiện.
 
@@ -68,6 +68,18 @@ Nếu bạn cần một "bảng điều khiển (console)" để theo dõi tiế
 
 (Nút sao chép nằm ở bên phải)
 ```javascript
-(async function(){let r=await fetch("//raw.githubusercontent.com/SITUVNgcd/DSTExspectamusSolver/main/script.js");if(r.ok){(new Function(await r.text()))();auto();}})();
+(async function(){let r=await fetch("//raw.githubusercontent.com/SITUVNgcd/DSTExspectamusSolver/main/script.min.js");if(r.ok){(new Function(await r.text()))();auto();}})();
 ```
 
+# Các lệnh có thể dùng trong bảng điều khiển
+```
+  auto()      - Hoàn thành tất cả các chặng giải đố một cách tự động
+  next()      - Chạy chặng tiếp theo
+  list()      - Hiện tất cả các bước giải đó
+  jumpTo(n)   - Nhảy đến chặng thứ n
+  stop()      - Ngừng giải đố ngay lập tức
+```
+
+# Javascript đã bị tắt
+
+Một số trình duyệt có thể tắt (mặc định hoặc người dùng tắt). Để bật nó, nhấn **Trình đơn ở góc phải (3 dấu chấm dọc) > Cài đặt (Settings) > Cài đặt trang web (Site settings) > Javascript > Cho phép (Allowed)**.
