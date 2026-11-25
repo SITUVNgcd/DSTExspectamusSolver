@@ -56,7 +56,7 @@ If you need a "console" to monitor the puzzle-solving progress, you can use Erud
 2. Go to https://exspectamus.dontstarvetogether.com.
 3. Copy the [**Eruda Code**](#eruda-code) and paste it into the address bar. Add `javascript:` to the beginning of the pasted text, then press Enter (**↵**) or tap the Go (**→**) button.
 4. Tap the Eruda icon (a gray gear) in the bottom-right corner to open the Eruda console.
-5. Copy [**THE CODE**](#the-code) and paste it into the console input (marked with a blue **>** sign), then press Enter (**↵**).
+5. Copy [**THE CODE**](#the-code) and paste it into the console input (marked with a blue **>** sign), then press Enter (**↵**) or **Execute** button.
 
 #### Eruda Code
 

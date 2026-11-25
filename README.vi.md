@@ -56,7 +56,7 @@ Nếu bạn cần một "bảng điều khiển (console)" để theo dõi tiế
 2. Truy cập https://exspectamus.dontstarvetogether.com.
 3. Sao chép [**Mã Eruda**](#mã-eruda) và dán vào thanh địa chỉ. Thêm `javascript:` vào đầu đoạn mã vừa dán, sau đó nhấn Enter (**↵**) hoặc nút Go (**→**).
 4. Nhấn vào biểu tượng Eruda (hình bánh răng màu xám) ở góc dưới bên phải để mở bảng điều khiển của Eruda.
-5. Sao chép [**ĐOẠN MÃ**](#đoạn-mã) và dán vào ô nhập lệnh trong bảng điều khiển (được đánh dấu bằng ký hiệu **>** màu xanh dương), sau đó nhấn Enter (**↵**).
+5. Sao chép [**ĐOẠN MÃ**](#đoạn-mã) và dán vào ô nhập lệnh trong bảng điều khiển (được đánh dấu bằng ký hiệu **>** màu xanh dương), sau đó nhấn Enter (**↵**) hoặc nút **Thực thi (Execute)**.
 
 ### Mã Eruda
 
